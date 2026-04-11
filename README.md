@@ -43,7 +43,7 @@ class BrendonKaruru:
         return [
             "🏥 HealthMate Zim — AI-powered telemedicine platform",
             "🏗️ KodeBuild — Modern software startup for Africa",
-            "🌍 Smart land systems & decentralized infra for Africa",
+            "📱 HCC App — Mobile app for Hope Community Church",
         ]
 
     def life_philosophy(self):
@@ -93,11 +93,15 @@ class BrendonKaruru:
 
 | Project | Description | Tech | Links |
 |---------|-------------|------|-------|
-| 🏥 **HealthMate Zim** | AI-powered telemedicine platform for symptom analysis & remote healthcare access in Zimbabwe | Python · React · ML · Firebase | [Repo](#) · [Live](#) |
-| 🏗️ **KodeBuild Website** | Modern tech startup website showcasing AI, Blockchain & Scalable digital solutions | React · Node.js · Bootstrap | [Repo](#) · [Live](https://kodebuildtech.com/) |
-| ⛓️ **Smart Land System** | Decentralized land registry using blockchain for secure, transparent property ownership | Solidity · Web3.js · React | [Repo](#) · [WIP](#) |
+| 🏥 **HealthMate Zim** | AI-powered telemedicine platform for symptom analysis & remote healthcare access in Zimbabwe | Python · React · ML · Firebase | [Repo](https://github.com/BrendonKaruru/healthmate-zim) · [Live](#) |
+| 🏗️ **KodeBuild Website** | Modern tech startup website showcasing AI, Blockchain & scalable digital solutions for Africa | React · Node.js · Bootstrap | [Repo](https://github.com/BrendonKaruru/kodebuild-website) · [Live](https://kodebuildtech.com/) |
+| 📱 **HCC App** | Mobile application for Hope Community Church — sermons, events & community engagement | React Native · Firebase | [Repo](https://github.com/BrendonKaruru/hcc-app) · [Live](#) |
+| 🏫 **Cornelius Hope Academy** | Full school website for a private Christian academy covering ECD through secondary level | React · Node.js · Bootstrap | [Repo](https://github.com/BrendonKaruru/cornelius-hope-academy-schools) · [Live](#) |
+| ⚽ **VisionSports** | Dynamic sports website delivering fixtures, news & updates for the VisionSports brand | React · JavaScript · CSS | [Repo](https://github.com/BrendonKaruru/visionsports) · [Live](#) |
 
 </div>
+
+> 💡 *Update the `[Live](#)` links above with your actual deployed URLs*
 
 ---
 
@@ -136,7 +140,7 @@ class BrendonKaruru:
 
 I'm a final-year Computer Science student driven by one question: **how can technology accelerate Africa's growth?**
 
-From AI-powered healthcare to blockchain land registries and scalable startup infrastructure, I build at the intersection of **innovation and impact** — writing code that reaches the people who need it most.
+From AI-powered healthcare to scalable school systems, community mobile apps, and startup infrastructure — I build at the intersection of **innovation and impact**, writing code that reaches the people who need it most.
 
 Beyond the screen, I'm a **certified Life Coach** who runs training sessions and mentorship programs for young people — because great technology needs great humans behind it.
 
