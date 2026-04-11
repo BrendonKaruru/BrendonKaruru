@@ -91,17 +91,17 @@ class BrendonKaruru:
 
 <div align="center">
 
-| Project | Description | Tech | Links |
-|---------|-------------|------|-------|
-| 🏥 **HealthMate Zim** | AI-powered telemedicine platform for symptom analysis & remote healthcare access in Zimbabwe | Python · React · ML · Firebase | [Repo](https://github.com/BrendonKaruru/healthmate-zim) · [Live](#) |
-| 🏗️ **KodeBuild Website** | Modern tech startup website showcasing AI, Blockchain & scalable digital solutions for Africa | React · Node.js · Bootstrap | [Repo](https://github.com/BrendonKaruru/kodebuild-website) · [Live](https://kodebuildtech.com/) |
-| 📱 **HCC App** | Mobile application for Hope Community Church — sermons, events & community engagement | React Native · Firebase | [Repo](https://github.com/BrendonKaruru/hcc-app) · [Live](#) |
-| 🏫 **Cornelius Hope Academy** | Full school website for a private Christian academy covering ECD through secondary level | React · Node.js · Bootstrap | [Repo](https://github.com/BrendonKaruru/cornelius-hope-academy-schools) · [Live](#) |
-| ⚽ **VisionSports** | Dynamic sports website delivering fixtures, news & updates for the VisionSports brand | React · JavaScript · CSS | [Repo](https://github.com/BrendonKaruru/visionsports) · [Live](#) |
+| Project | Description | Tech | 
+|---------|-------------|------|
+| 🏥 **HealthMate Zim** | AI-powered telemedicine platform for symptom analysis & remote healthcare access in Zimbabwe | Python · React · ML · Firebase | [Repo](https://github.com/BrendonKaruru/healthmate-zim) · |
+| 🏗️ **KodeBuild Website** | Modern tech startup website showcasing AI, Blockchain & scalable digital solutions for Africa | React · Node.js · Bootstrap | [Repo](https://github.com/BrendonKaruru/kodebuild-website) ·|
+| 📱 **HCC App** | Mobile application for Hope Community Church — sermons, events & community engagement | React Native · Firebase | [Repo](https://github.com/BrendonKaruru/hcc-app) · |
+| 🏫 **Cornelius Hope Academy** | Full school website for a private Christian academy covering ECD through secondary level | React · Node.js · Bootstrap | [Repo](https://github.com/BrendonKaruru/cornelius-hope-academy-schools) · |
+| ⚽ **VisionSports** | Dynamic sports website delivering fixtures, news & updates for the VisionSports brand | React · JavaScript · CSS | [Repo](https://github.com/BrendonKaruru/visionsports) · |
 
 </div>
 
-> 💡 *Update the `[Live](#)` links above with your actual deployed URLs*
+
 
 ---
 
@@ -163,7 +163,7 @@ Beyond the screen, I'm a **certified Life Coach** who runs training sessions and
 
 <div align="center">
 
-*"Build things that matter. Ship fast. Inspire others."* — Brendon Karuru
+*"Build things that matter. Ship fast. Inspire others."*  Brendon Karuru
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
