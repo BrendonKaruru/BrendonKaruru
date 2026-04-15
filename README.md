@@ -85,35 +85,6 @@ class BrendonKaruru:
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech | 
-|---------|-------------|------|
-| 🏥 **HealthMate Zim** | AI-powered telemedicine platform for symptom analysis & remote healthcare access in Zimbabwe | Python · React · ML · Firebase | [Repo](https://github.com/BrendonKaruru/healthmate-zim) · |
-| 🏗️ **KodeBuild Website** | Modern tech startup website showcasing AI, Blockchain & scalable digital solutions for Africa | React · Node.js · Bootstrap | [Repo](https://github.com/BrendonKaruru/kodebuild-website) ·|
-| 📱 **HCC App** | Mobile application for Hope Community Church — sermons, events & community engagement | React Native · Firebase | [Repo](https://github.com/BrendonKaruru/hcc-app) · |
-| 🏫 **Cornelius Hope Academy** | Full school website for a private Christian academy covering ECD through secondary level | React · Node.js · Bootstrap | [Repo](https://github.com/BrendonKaruru/cornelius-hope-academy-schools) · |
-| ⚽ **VisionSports** | Dynamic sports website delivering fixtures, news & updates for the VisionSports brand | React · JavaScript · CSS | [Repo](https://github.com/BrendonKaruru/visionsports) · |
-
-</div>
-
-
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=BrendonKaruru&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendonKaruru&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170" />
-
-</div>
-
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=BrendonKaruru&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=3fb950&fire=ff6b6b&currStreakLabel=58a6ff)](https://git.io/streak-stats)
