@@ -85,12 +85,6 @@ class BrendonKaruru:
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=BrendonKaruru&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=3fb950&fire=ff6b6b&currStreakLabel=58a6ff)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
 ## 🏗️ KodeBuild — My Startup
