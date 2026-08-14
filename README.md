@@ -128,8 +128,7 @@ Beyond the screen, I'm a **certified Life Coach** who runs training sessions and
 
 <div align="center">
 
-*"Build things that matter. Ship fast. Inspire others."*  Brendon Karuru
+*CODE | COACH | LEAD | IMPACT*  
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
