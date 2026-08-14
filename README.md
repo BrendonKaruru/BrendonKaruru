@@ -33,7 +33,7 @@ class BrendonKaruru:
         self.name         = "Brendon Karuru"
         self.role         = "Full-Stack Engineer & Founder"
         self.location     = "Zimbabwe 🇿🇼"
-        self.education    = "Final-Year BSc Computer Science"
+        self.education    = "BSc Computer Science Graduate"
         self.company      = "KodeBuild Tech"
         self.focus        = ["AI & Machine Learning", "Blockchain & Web3", "Scalable Systems"]
         self.side_mission = "Certified Life Coach | Inspiring the next gen 💡"
